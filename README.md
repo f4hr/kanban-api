@@ -2,6 +2,8 @@
 
 REST API for [Kanban app](https://github.com/f4hr/kanban)
 
+> example: https://f4hr-kanban-api.onrender.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
